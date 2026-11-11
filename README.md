@@ -1,12 +1,12 @@
 <!-- ===================== CABEÇALHO ANIMADO ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Seu%20Nome&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desenvolvedor%20%7C%20Criativo%20%7C%20Curioso&descAlignY=56&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Yuri%20Cainã&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desenvolvedor%20%7C%20Criativo%20%7C%20Curioso&descAlignY=56&descSize=18" width="100%"/>
 </p>
 
 <!-- Texto digitando -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Ol%C3%A1!+Eu+sou+Seu+Nome+%F0%9F%91%8B;Desenvolvedor+Full+Stack+%F0%9F%92%BB;Apaixonado+por+tecnologia+%F0%9F%9A%80;Sempre+aprendendo+algo+novo+%F0%9F%93%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Ol%C3%A1!+Eu+sou+Yuri+Caina+%F0%9F%91%8B;Desenvolvedor+Full+Stack+%F0%9F%92%BB;Apaixonado+por+tecnologia+%F0%9F%9A%80;Sempre+aprendendo+algo+novo+%F0%9F%93%9A" alt="Typing SVG" />
   </a>
 </p>
 
